@@ -1,10 +1,12 @@
 Project Title : FinSight
+
 Project Description:
  ->FinSight is a web-based personal finance management application designed to help users track and understand their spending habits.
  ->Users can create an account, securely log in, record their expenses, and view their spending through a dashboard.
  ->The application also provides intelligent insights from expense data to help users better understand their financial behavior.
 
 Features:
+
 1.User Authentication
  •	User signup and login
  •	Secure password hashing
