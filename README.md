@@ -8,39 +8,39 @@ Features:
 
 1.User Authentication
 
-  •	User signup and login
+•	User signup and login
  
-  •	Secure password hashing
+•	Secure password hashing
  
-  •	Session-based authentication
+•	Session-based authentication
 
 2.Expense Tracking
 
-  •	Add and store expenses
+•	Add and store expenses
  
-  •	Categorize expenses
+•	Categorize expenses
  
-  •	Track expenses by date
+•	Track expenses by date
  
-  •	View personal expense history
+•	View personal expense history
 
 3.Expense Analysis
 
-  •	Monthly expense tracking
+•	Monthly expense tracking
  
-  •	Dashboard-based spending overview
+•	Dashboard-based spending overview
 
 4.Machine Learning Insights
 
-  •	Expense prediction
+•	Expense prediction
  
-  •	Spending behavior classification
+•	Spending behavior classification
  
-  •	Unusual spending detection
+•	Unusual spending detection
 
 5.Cloud Database
 
-  •	MongoDB Atlas for storing user and expense data
+•	MongoDB Atlas for storing user and expense data
 
 Technologies Used :
 
